@@ -1,7 +1,7 @@
 # Python Web Scrapy
 Tutoriales y ejemplos para realizar web scrapeos simples en python
 
-* Web scrapy con Python y XPath en:
+* Ejemplo de código de Web scrapy con XPath y Python en:
     * 01-web_scrapy_xpath.ipynb
 
 ## Web Scrapy con XPath y Python
