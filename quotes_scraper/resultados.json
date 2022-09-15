@@ -1,77 +1,31 @@
 [
     {
-        "Titulo del episodio": "Amagami SS - 1"
-    },
-    {
-        "Titulo del episodio": "Amagami SS - 2"
-    },
-    {
-        "Titulo del episodio": "Amagami SS - 3"
-    },
-    {
-        "Titulo del episodio": "Amagami SS - 4"
-    },
-    {
-        "Titulo del episodio": "Amagami SS - 5"
-    },
-    {
-        "Titulo del episodio": "Amagami SS - 6"
-    },
-    {
-        "Titulo del episodio": "Amagami SS - 7"
-    },
-    {
-        "Titulo del episodio": "Amagami SS - 8"
-    },
-    {
-        "Titulo del episodio": "Amagami SS - 9"
-    },
-    {
-        "Titulo del episodio": "Amagami SS - 10"
-    },
-    {
-        "Titulo del episodio": "Amagami SS - 11"
-    },
-    {
-        "Titulo del episodio": "Amagami SS - 12"
-    },
-    {
-        "Titulo del episodio": "Amagami SS - 13"
-    },
-    {
-        "Titulo del episodio": "Amagami SS - 14"
-    },
-    {
-        "Titulo del episodio": "Amagami SS - 15"
-    },
-    {
-        "Titulo del episodio": "Amagami SS - 16"
-    },
-    {
-        "Titulo del episodio": "Amagami SS - 17"
-    },
-    {
-        "Titulo del episodio": "Amagami SS - 18"
-    },
-    {
-        "Titulo del episodio": "Amagami SS - 19"
-    },
-    {
-        "Titulo del episodio": "Amagami SS - 20"
-    },
-    {
-        "Titulo del episodio": "Amagami SS - 21"
-    },
-    {
-        "Titulo del episodio": "Amagami SS - 22"
-    },
-    {
-        "Titulo del episodio": "Amagami SS - 23"
-    },
-    {
-        "Titulo del episodio": "Amagami SS - 24"
-    },
-    {
-        "Titulo del episodio": "Amagami SS - 25"
+        "Titulo del episodio": [
+            "Amagami SS - 1",
+            "Amagami SS - 2",
+            "Amagami SS - 3",
+            "Amagami SS - 4",
+            "Amagami SS - 5",
+            "Amagami SS - 6",
+            "Amagami SS - 7",
+            "Amagami SS - 8",
+            "Amagami SS - 9",
+            "Amagami SS - 10",
+            "Amagami SS - 11",
+            "Amagami SS - 12",
+            "Amagami SS - 13",
+            "Amagami SS - 14",
+            "Amagami SS - 15",
+            "Amagami SS - 16",
+            "Amagami SS - 17",
+            "Amagami SS - 18",
+            "Amagami SS - 19",
+            "Amagami SS - 20",
+            "Amagami SS - 21",
+            "Amagami SS - 22",
+            "Amagami SS - 23",
+            "Amagami SS - 24",
+            "Amagami SS - 25"
+        ]
     }
 ]

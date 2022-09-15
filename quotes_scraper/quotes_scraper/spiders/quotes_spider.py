@@ -8,8 +8,8 @@ class QuotesSpider(scrapy.Spider):
     ]
     custom_settings = {
         "FEEDS": {
-            "resultados.csv": {
-                "format": "csv",
+            "quotes.json": {
+                "format": "json",
                 "encoding": "utf8",
                 "store_empty": False,
                 "fields": None,
@@ -28,11 +28,36 @@ class QuotesSpider(scrapy.Spider):
 
         yield {
             "title": title,
-            "quotes": quotes,
             "top_ten_tags": top_ten_tags
         }
 
         next_page_button_link = response.xpath(
             '//ul[@class="pager"]//li[@class="next"]/a/@href').get()
         if next_page_button_link:
-            yield response.follow(next_page_button_link, callback=self.parse)
+            yield response.follow(next_page_button_link,
+                                  callback=self.parse_only_quotes,
+                                  cb_kwargs={"quotes": quotes}
+                                  )
+
+    def parse_only_quotes(self, response, **kwargs):
+        if kwargs:
+            quotes = kwargs["quotes"]
+
+        aux_quotes = response.xpath(
+            '//span[@class="text" and @itemprop="text"]/text()').getall()
+
+        quotes.extend(aux_quotes)
+
+        next_page_button_link = response.xpath(
+            '//ul[@class="pager"]//li[@class="next"]/a/@href').get()
+
+        if next_page_button_link:
+            yield response.follow(
+                next_page_button_link,
+                callback=self.parse_only_quotes,
+                cb_kwargs={"quotes": quotes}
+            )
+        else:
+            yield {
+                "quotes": quotes
+            }
