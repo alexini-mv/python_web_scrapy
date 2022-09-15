@@ -4,6 +4,9 @@ Tutoriales y ejemplos para realizar web scrapeos simples en python
 * Ejemplo de código de Web scrapy con XPath y Python en:
     * 01-web_scrapy_xpath.ipynb
 
+* Ejemplo de proyecto utilizando Scrapy:
+    * /tutorial/
+
 ## Web Scrapy con XPath y Python
 
 **XPath** es una técnica para extraer datos a partir de objetos **HTML**. 
