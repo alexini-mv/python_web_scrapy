@@ -1,0 +1,67 @@
+[
+    {
+        "nombre": "Photokano",
+        "descripcion": "Kazuya, un chico de segundo año, luego de unas vacaciones de verano recibe una cámara digital como regalo, es entonces donde comienza a su fascinación por este gadget desarrollando la fotografía como su nuevo hobby y un empuje a su vida social.",
+        "generos": [
+            "Colegial",
+            "Romance",
+            "Ecchi"
+        ]
+    },
+    {
+        "nombre": "Hatsukoi Limited",
+        "descripcion": "Una serie de historias cortas sobre el primer amor, estas giran en torno a grupo de estudiantes, sus familiares y compañeros. Poco a poco estas historias se van mezclado llevando a una historia principal donde participan la mayoría de los personajes principales.",
+        "generos": [
+            "Comedia",
+            "Ecchi",
+            "Romance",
+            "Colegial",
+            "Shounen"
+        ]
+    },
+    {
+        "nombre": "Kami nomi zo Shiru Sekai II",
+        "descripcion": "Continuan las aventuras de Keima Katsuragi, el rey de las conquistas (apodo dado por ser como un dios en juegos Galge de citas 2D), seguirá \"capturando\" el corazón de chicas con espiritus prófugos dentro de ellas para que puedan salir y Elsee, su compañera demoniaca, les de captura.",
+        "generos": [
+            "Comedia",
+            "Romance",
+            "Shounen",
+            "Harem",
+            "Sobrenatural"
+        ]
+    },
+    {
+        "nombre": "Kami nomi zo Shiru Sekai",
+        "descripcion": "Katsuragi Keima, un estudiante de segundo año de secundaria, ávido jugador de Galges. En Internet es conocido como \"Dios Caído\", por sus legendarias habilidades para \"capturar\" cualquier chica 2D  en los juegos.   Keima recibe un e-mail ofreciendole un contrato para \"capturar\" chicas. El acepta tomandolo como si fuera un reto, y una demonio del infierno apodada Elsee aparece.  Ella le pide su cooperación para ayudarla en la captura de los espíritus profugos.   Estos espíritus se ocultan dentro del corazón de las chicas, por lo que Elsee le sugiere que el único método para obligar a los espíritus a salir es \"capturar\" sus corazones haciéndolas que se enamoren.   Horrorizado por la idea, Keima se niega luego de aclarar a Elsee que él sólo está interesado en \"capturar\" las chicas 2D y que aborrece la realidad.   Sin embargo, con el contrato ya aceptado, Keima tendra que ayudar a Elsee; ya que ambos podrían perder sus cabezas si no lo obedecen.",
+        "generos": [
+            "Comedia",
+            "Romance",
+            "Shounen",
+            "Harem",
+            "Sobrenatural"
+        ]
+    },
+    {
+        "nombre": "Clannad",
+        "descripcion": "Tomoya Okazaki es un joven de tercer año de instituto que parece importarle poco su desempeño escolar, y sumada a su actitud conflictiva originada por problemas familiares, es marcado como “delincuente” en su escuela por la gran mayoría de sus compañeros que están más ocupados pensando en lo que harán una vez acaben la escuela. Tomoya, sin amigos, oficio ni beneficio; conoce providencialmente a Nagisa Furukawa, una chica enfermiza algo lenta en los estudios que se quedó sin amigos puesto que todos ellos ya se habían graduado. Poco a poco ambos entablan amistad y mientras el joven empieza a descubrir que su escuela no era tan mal como aparentaba, empieza a conocer a mas chicas. Sin embargo, a pesar de todo, el muchacho y sus amigas guardan secretos, sueños y deseos que iran entrecruzandose.",
+        "generos": [
+            "Comedia",
+            "Drama",
+            "Fantasìa",
+            "Romance",
+            "Colegial",
+            "Cosas de la vida",
+            "Sobrenatural"
+        ]
+    },
+    {
+        "nombre": "Yosuga no Sora",
+        "descripcion": "Un par de hermanos mellizos, \"Haruka\" y \"Sora\" quienes después de perder a sus padres en un accidente tienen que mudarse con sus abuelos a la villa donde viven. Sin embargo, hay una razón más para regresar a ese lugar donde pasaron su infancia, una promesa que se hicieron hace mucho tiempo y un objeto perdido que parece ser importante. Se toca el tema del incesto y hay muchas situaciones eroticas y adultas.",
+        "generos": [
+            "Drama",
+            "Ecchi",
+            "Romance",
+            "Harem"
+        ]
+    }
+]

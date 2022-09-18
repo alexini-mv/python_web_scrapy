@@ -4,8 +4,12 @@ Tutoriales y ejemplos para realizar web scrapeos simples en python
 * Ejemplo de código de Web scrapy con XPath y Python en:
     * 01-web_scrapy_xpath.ipynb
 
+* Ejemplo de código scrapeo con BeautifulSoup:
+    * 02-beautifulsoup.ipynb
+
 * Ejemplo de proyecto utilizando Scrapy:
     * /tutorial/
+    * /quotes_scraper/
 
 ## Web Scrapy con XPath y Python
 
