@@ -11,6 +11,9 @@ Tutoriales y ejemplos para realizar web scrapeos simples en python
     * /tutorial/
     * /quotes_scraper/
 
+* Ejemplo de Proyecto usando Page Object Pattern
+    * /page_object_pattern/
+
 ## Web Scrapy con XPath y Python
 
 **XPath** es una técnica para extraer datos a partir de objetos **HTML**. 
