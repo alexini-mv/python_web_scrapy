@@ -1,4 +1,5 @@
 import yaml
+from yaml.loader import SafeLoader
 
 __config = None
 
@@ -9,6 +10,6 @@ def config():
 
     if not __config:
         with open("config.yaml", "r") as f:
-            __config = yaml.load(f)
+            __config = yaml.load(f, Loader=SafeLoader)
 
     return __config

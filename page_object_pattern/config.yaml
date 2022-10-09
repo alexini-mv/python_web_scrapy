@@ -1,7 +1,11 @@
-new_sites:
-  
+news_sites:
   eluniversal:
-    url: https://www.eluniversal.com
-  
+    url: https://www.eluniversal.com.mx/
+    queries:
+      homepage_article_links: '.titulo  a'
+      article_title: '.h1'
+      article_body: '.field-name-body'
   elpais:
     url: https://elpais.com
+    queries:
+      homepage_article_links: '.articulo-titulo a, apoyo-titulo a'

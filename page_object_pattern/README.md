@@ -11,4 +11,4 @@ El esqueleto de la estructura del proyecto es el siguiente:
 * `common.py`: Script para cargar la configuración del proyecto. Cargamos en memoria la configuración del archivo yaml.
 * `main.py`: La lógica del scrapeo.
 
-El enfoque se trata que cada página web a scrapear, se le vea y sea tratada como un objeto, abstraerse en una página - objetos.
+El enfoque se trata que cada página web a scrapear, se vea y sea tratada como un objeto, abstraerse en una página - objetos.
