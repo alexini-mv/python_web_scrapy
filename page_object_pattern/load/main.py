@@ -17,7 +17,7 @@ def main(filename):
     # Cargamos los datos del csv a memoria
     articles = pd.read_csv(filename)
 
-    for index, row in articles.iterrows()
+    for index, row in articles.iterrows():
         # Agregamos fila por fila cada uno de los articulos al schema
         logger.info(f'Loading article uid {row["uid"]}')
         article = Article(row['uid'],
